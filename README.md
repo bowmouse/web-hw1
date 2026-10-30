@@ -1,5 +1,5 @@
 # 실습과제 #1 : 영화 보드 완성판
-- 이름 / 학번 : 2651032 / 배찬희
+- 이름 / 학번 : 2651060 / 전동찬
 - 사이트 주소 : https://bowmouse.github.io/web-hw1/
 - 사용한 API 1 : https://image.tmdb.org/t/p/w342/xul24PvmhG1smXsAcOPCeeuKLUN.jpg 미션 파서블 2021
                https://image.tmdb.org/t/p/w342/6vDaYhZypJzd8r0NnSY2JPIX6Y5.jpg 미션 임파서블 1996
